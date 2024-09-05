@@ -9,7 +9,7 @@ windows: [fonte](https://www.gyan.dev/ffmpeg/builds/)
 - [ffmpeg 7.0.2 arm64](/linux/ffmpeg-7.0.2-arm64.zip)
 - [ffmpeg 7.0.2 armhf](/linux/ffmpeg-7.0.2-armhf.zip)<br>
 - [ffmpeg 7.0.2 armel](/linux/ffmpeg-7.0.2-armel.zip)<br>
-- [ffmpeg 7.0.2 i686-32](/linux/ffmpeg-7.0.2-i686.zip)<br>
+- [ffmpeg 7.0.2 i686](/linux/ffmpeg-7.0.2-i686.zip)<br>
 
 
 **Windows**
